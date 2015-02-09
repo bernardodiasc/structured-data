@@ -4,26 +4,32 @@
       {
         "id": 80,
         "name": "Sony",
+        "text": "<p>sample paragraph text</p><p>this is <strong>mixed content</strong></p>"
       },
       {
         "id": 81,
         "name": "Samsonite",
+        "text": "<p>sample paragraph text</p><p>this is <strong>mixed content</strong></p>"
       },
       {
         "id": 82,
         "name": "HTC",
+        "text": "<p>sample paragraph text</p><p>this is <strong>mixed content</strong></p>"
       },
       {
         "id": 83,
         "name": "Dell",
+        "text": "<p>sample paragraph text</p><p>this is <strong>mixed content</strong></p>"
       },
       {
         "id": 84,
         "name": "Philips",
+        "text": "<p>sample paragraph text</p><p>this is <strong>mixed content</strong></p>"
       },
       {
         "id": 85,
         "name": "Dr.Dre",
+        "text": "<p>sample paragraph text</p><p>this is <strong>mixed content</strong></p>"
       }
     ],
 

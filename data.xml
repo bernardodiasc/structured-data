@@ -6,26 +6,50 @@
     <brand>
       <id>80</id>
       <name>Sony</name>
+      <text>
+        <p>sample paragraph text</p>
+        <p>this is <strong>mixed content</strong></p>
+      </text>
     </brand>
     <brand>
       <id>81</id>
       <name>Samsonite</name>
+      <text>
+        <p>sample paragraph text</p>
+        <p>this is <strong>mixed content</strong></p>
+      </text>
     </brand>
     <brand>
       <id>82</id>
       <name>HTC</name>
+      <text>
+        <p>sample paragraph text</p>
+        <p>this is <strong>mixed content</strong></p>
+      </text>
     </brand>
     <brand>
       <id>83</id>
       <name>Dell</name>
+      <text>
+        <p>sample paragraph text</p>
+        <p>this is <strong>mixed content</strong></p>
+      </text>
     </brand>
     <brand>
       <id>84</id>
       <name>Philips</name>
+      <text>
+        <p>sample paragraph text</p>
+        <p>this is <strong>mixed content</strong></p>
+      </text>
     </brand>
     <brand>
       <id>85</id>
       <name>Dr.Dre</name>
+      <text>
+        <p>sample paragraph text</p>
+        <p>this is <strong>mixed content</strong></p>
+      </text>
     </brand>
   </brands>
 
