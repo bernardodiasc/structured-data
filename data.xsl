@@ -18,7 +18,7 @@
             <br/>
             <small>
               <strong><xsl:value-of select="$brandname"/></strong>
-              <xsl:text> products available on this </xsl:text>
+              <xsl:text> products available on </xsl:text>
               <strong><xsl:value-of select="$retailername"/></strong>
               <xsl:text>: </xsl:text>
               (<xsl:value-of select="count(/data/products/product[retailers/retailer/id = $retailerid and brand = $brandid])"/>)
